@@ -1,6 +1,6 @@
 {
   "name": "easy-mongo-fixture",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -23,6 +23,6 @@
   "homepage": "https://github.com/ivpusic/easy-mongo-fixture",
   "dependencies": {
     "q": "~1.0.1",
-    "easy-fixture": "~0.1.0"
+    "easy-fixture": "*"
   }
 }
