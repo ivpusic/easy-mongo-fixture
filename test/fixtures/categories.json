@@ -1,0 +1,63 @@
+{ "_id" : { "$oid" : "53413cb8df2a2e3cec6915c5" }, "name" : "Auta sdasd", "parent" : null, "subCategories" : [] }
+{ "_id" : { "$oid" : "53413d24779631784437d69e" }, "name" : "Mobiteli Apple iOS f", "parent" : { "$oid" : "53413cafdf2a2e3cec6915c4" } }
+{ "_id" : { "$oid" : "53413efa8ae21e0a9e48899d" }, "name" : "Mobiteli Samsung", "parent" : { "$oid" : "53413cafdf2a2e3cec6915c4" }, "subCategories" : [ { "$oid" : "5341a11991b30f1dbb2b32f1" } ] }
+{ "_id" : { "$oid" : "53419837c40aaa7b72835b99" }, "name" : "Smart", "parent" : { "$oid" : "534196cf8ae21e0a9e48899e" } }
+{ "_id" : { "$oid" : "5341a11991b30f1dbb2b32f1" }, "name" : "Smart Samsung", "parent" : { "$oid" : "53413efa8ae21e0a9e48899d" } }
+{ "name" : "aaaaaaaaaaaaa", "parent" : { "$oid" : "53413cb8df2a2e3cec6915c5" }, "_id" : { "$oid" : "5343258561cf05482fc84be7" }, "active" : "a", "subCategories" : [], "__v" : 0 }
+{ "name" : "ssssssssss", "parent" : { "$oid" : "53413cb8df2a2e3cec6915c5" }, "_id" : { "$oid" : "5343260f514ff5c62fb1467a" }, "active" : "a", "subCategories" : [], "__v" : 0 }
+{ "name" : "dsadsadas", "parent" : { "$oid" : "53413cb8df2a2e3cec6915c5" }, "_id" : { "$oid" : "53432682a485300330926032" }, "active" : "a", "subCategories" : [], "__v" : 0 }
+{ "name" : "fdsfsdfs", "parent" : { "$oid" : "53413cb8df2a2e3cec6915c5" }, "_id" : { "$oid" : "5343274453c5b6a730548861" }, "active" : "a", "subCategories" : [], "__v" : 0 }
+{ "name" : "aaaaaaaaaaaaaaa", "parent" : { "$oid" : "53413cb8df2a2e3cec6915c5" }, "_id" : { "$oid" : "534328d4b382449331fc16ca" }, "active" : "a", "subCategories" : [], "__v" : 0 }
+{ "name" : "eeeeeeeeee", "parent" : { "$oid" : "53413cb8df2a2e3cec6915c5" }, "_id" : { "$oid" : "5343290b52851db231bb2a9b" }, "active" : "a", "subCategories" : [], "__v" : 0 }
+{ "name" : "aaaaa", "parent" : { "$oid" : "53413cb8df2a2e3cec6915c5" }, "_id" : { "$oid" : "53432a30351d7d1632298a05" }, "active" : "a", "subCategories" : [], "__v" : 0 }
+{ "name" : "aaaaaaaa", "parent" : { "$oid" : "53413cb8df2a2e3cec6915c5" }, "_id" : { "$oid" : "53432b453f2bb87e327e2af4" }, "active" : "a", "subCategories" : [], "__v" : 0 }
+{ "name" : "aaaa", "parent" : { "$oid" : "53413cb8df2a2e3cec6915c5" }, "_id" : { "$oid" : "53432bbd4833a2ac32331c76" }, "active" : "a", "subCategories" : [], "__v" : 0 }
+{ "name" : "dddddddddd", "parent" : { "$oid" : "53413cb8df2a2e3cec6915c5" }, "_id" : { "$oid" : "53432bfe3c73f2d5321975fe" }, "active" : "a", "subCategories" : [], "__v" : 0 }
+{ "name" : "dadsda", "parent" : { "$oid" : "53413cb8df2a2e3cec6915c5" }, "_id" : { "$oid" : "53432c31d9fed25233e27e46" }, "active" : "a", "subCategories" : [], "__v" : 0 }
+{ "name" : "eeeeeeeeeeee", "parent" : { "$oid" : "53413cb8df2a2e3cec6915c5" }, "_id" : { "$oid" : "53432d1822038b0334e2c4e1" }, "active" : "a", "subCategories" : [], "__v" : 0 }
+{ "name" : "dsadasdsa", "parent" : { "$oid" : "53413cafdf2a2e3cec6915c4" }, "_id" : { "$oid" : "53432dee0ca6cc563416cce1" }, "active" : "a", "subCategories" : [], "__v" : 0 }
+{ "name" : "eeee", "parent" : { "$oid" : "53413cafdf2a2e3cec6915c4" }, "_id" : { "$oid" : "53432e3a6326aab834da8f84" }, "active" : "a", "subCategories" : [], "__v" : 0 }
+{ "name" : "dsdasdas", "parent" : { "$oid" : "53413cb8df2a2e3cec6915c5" }, "_id" : { "$oid" : "53432e8da6ac0bdc3423e132" }, "active" : "a", "subCategories" : [], "__v" : 0 }
+{ "name" : "dsdasdas", "parent" : { "$oid" : "53413cb8df2a2e3cec6915c5" }, "_id" : { "$oid" : "53432eaabcaa4319356966b3" }, "active" : "a", "subCategories" : [], "__v" : 0 }
+{ "name" : "fdfsfds", "parent" : { "$oid" : "53413cb8df2a2e3cec6915c5" }, "_id" : { "$oid" : "53432ec7a5bb403835107d1b" }, "active" : "a", "subCategories" : [], "__v" : 0 }
+{ "name" : "fdfsd", "parent" : { "$oid" : "53413cb8df2a2e3cec6915c5" }, "_id" : { "$oid" : "53432ed977fff15935c134de" }, "active" : "a", "subCategories" : [], "__v" : 0 }
+{ "name" : "dsdada", "parent" : { "$oid" : "53413cafdf2a2e3cec6915c4" }, "_id" : { "$oid" : "53432f3077fff15935c134df" }, "active" : "a", "subCategories" : [], "__v" : 0 }
+{ "name" : "nova", "parent" : { "$oid" : "53432f3077fff15935c134df" }, "_id" : { "$oid" : "53432f4277fff15935c134e0" }, "active" : "a", "subCategories" : [], "__v" : 0 }
+{ "name" : "dsdas", "parent" : { "$oid" : "53413cb8df2a2e3cec6915c5" }, "_id" : { "$oid" : "53432fed0de564d83510383f" }, "active" : "a", "subCategories" : [], "__v" : 0 }
+{ "name" : "dada", "parent" : { "$oid" : "53413cafdf2a2e3cec6915c4" }, "_id" : { "$oid" : "53433049b98eddfb35d67db0" }, "active" : "a", "subCategories" : [], "__v" : 0 }
+{ "name" : "dsadas", "parent" : { "$oid" : "53413cafdf2a2e3cec6915c4" }, "_id" : { "$oid" : "534330d6885dbc1e36c8b9ea" }, "active" : "a", "subCategories" : [], "__v" : 0 }
+{ "name" : "dsadasd", "parent" : { "$oid" : "53413cafdf2a2e3cec6915c4" }, "_id" : { "$oid" : "534331646dba505836b4cf5c" }, "active" : "a", "subCategories" : [], "__v" : 0 }
+{ "name" : "gfdgdf", "parent" : { "$oid" : "53413cb8df2a2e3cec6915c5" }, "_id" : { "$oid" : "534332d464b51af036aa7f12" }, "active" : "a", "subCategories" : [], "__v" : 0 }
+{ "name" : "dddddddddddddddd", "parent" : { "$oid" : "53413cb8df2a2e3cec6915c5" }, "_id" : { "$oid" : "5343331e7f3cdb0b37cfe6fa" }, "active" : "a", "subCategories" : [], "__v" : 0 }
+{ "name" : "dddddddddddd", "parent" : { "$oid" : "53413cafdf2a2e3cec6915c4" }, "_id" : { "$oid" : "534333437f3cdb0b37cfe6fb" }, "active" : "a", "subCategories" : [], "__v" : 0 }
+{ "name" : "aaaaa", "parent" : { "$oid" : "53413cb8df2a2e3cec6915c5" }, "_id" : { "$oid" : "5343383a8700fca338e7f941" }, "active" : "a", "subCategories" : [], "__v" : 0 }
+{ "name" : "aaaaaaaaaaa", "parent" : { "$oid" : "53413cafdf2a2e3cec6915c4" }, "_id" : { "$oid" : "53433c6c25569b503fef6caa" }, "active" : "a", "subCategories" : [], "__v" : 0 }
+{ "name" : "aaaaaa", "parent" : { "$oid" : "53413cafdf2a2e3cec6915c4" }, "_id" : { "$oid" : "53433ca86cd2901d408bae0a" }, "active" : "a", "subCategories" : [], "__v" : 0 }
+{ "name" : "dasdsa", "parent" : { "$oid" : "53413cafdf2a2e3cec6915c4" }, "_id" : { "$oid" : "53433cbb7239a04240ff7b1f" }, "active" : "a", "subCategories" : [], "__v" : 0 }
+{ "name" : "dsadas", "parent" : { "$oid" : "53413cafdf2a2e3cec6915c4" }, "_id" : { "$oid" : "53433cd89ce4a8c1404d1080" }, "active" : "a", "subCategories" : [], "__v" : 0 }
+{ "name" : "aaaa", "parent" : { "$oid" : "53413cafdf2a2e3cec6915c4" }, "_id" : { "$oid" : "53433cea9010bfdd4020dd37" }, "active" : "a", "subCategories" : [], "__v" : 0 }
+{ "name" : "aaaa", "parent" : { "$oid" : "53413cafdf2a2e3cec6915c4" }, "_id" : { "$oid" : "53433d19733492fc40aaddcd" }, "active" : "a", "subCategories" : [], "__v" : 0 }
+{ "name" : "dsdasdas", "parent" : { "$oid" : "53413cafdf2a2e3cec6915c4" }, "_id" : { "$oid" : "53433d39469729474131dadc" }, "active" : "a", "subCategories" : [], "__v" : 0 }
+{ "name" : "eeeeeeee", "parent" : { "$oid" : "53413cafdf2a2e3cec6915c4" }, "_id" : { "$oid" : "53433d7ad90dfadf4199cb8a" }, "active" : "a", "subCategories" : [], "__v" : 0 }
+{ "name" : "dasdasdas", "parent" : { "$oid" : "53413cafdf2a2e3cec6915c4" }, "_id" : { "$oid" : "53433def095e7a0b44c7e126" }, "active" : "a", "subCategories" : [], "__v" : 0 }
+{ "name" : "aaaa", "parent" : { "$oid" : "53413cafdf2a2e3cec6915c4" }, "_id" : { "$oid" : "53433ee4ffee0d7844d0a5f2" }, "active" : "a", "subCategories" : [], "__v" : 0 }
+{ "name" : "lk;lk", "parent" : { "$oid" : "53413cafdf2a2e3cec6915c4" }, "_id" : { "$oid" : "53433fcd53f50ed744b00306" }, "active" : "a", "subCategories" : [], "__v" : 0 }
+{ "name" : "aaaaa", "parent" : { "$oid" : "53413cafdf2a2e3cec6915c4" }, "_id" : { "$oid" : "5343402c18ea2b1345da49c5" }, "active" : "a", "subCategories" : [], "__v" : 0 }
+{ "name" : "aaaa", "parent" : { "$oid" : "53413cafdf2a2e3cec6915c4" }, "_id" : { "$oid" : "5343404f0371c05a45c87e41" }, "active" : "a", "subCategories" : [], "__v" : 0 }
+{ "name" : "qqqq", "parent" : { "$oid" : "53413cafdf2a2e3cec6915c4" }, "_id" : { "$oid" : "534340918bcd258045ac905a" }, "active" : "a", "subCategories" : [], "__v" : 0 }
+{ "__v" : 0, "_id" : { "$oid" : "534340fd3b0bad4346b7627f" }, "active" : "a", "name" : "Mercedes", "parent" : { "$oid" : "53413cb8df2a2e3cec6915c5" }, "subCategories" : [ { "$oid" : "534341093b0bad4346b76281" }, { "$oid" : "5343410e3b0bad4346b76282" } ] }
+{ "name" : "Audi", "parent" : { "$oid" : "53413cb8df2a2e3cec6915c5" }, "_id" : { "$oid" : "534341023b0bad4346b76280" }, "active" : "a", "subCategories" : [], "__v" : 0 }
+{ "name" : "S klasa", "parent" : { "$oid" : "534340fd3b0bad4346b7627f" }, "_id" : { "$oid" : "534341093b0bad4346b76281" }, "active" : "a", "subCategories" : [], "__v" : 0 }
+{ "name" : "C klasa", "parent" : { "$oid" : "534340fd3b0bad4346b7627f" }, "_id" : { "$oid" : "5343410e3b0bad4346b76282" }, "active" : "a", "subCategories" : [], "__v" : 0 }
+{ "__v" : 0, "_id" : { "$oid" : "534466f7380aa1910c74e8f8" }, "active" : "a", "name" : "inside dsdsdsds dfsd", "parent" : null, "subCategories" : [] }
+{ "name" : "new one", "parent" : { "$oid" : "534466f7380aa1910c74e8f8" }, "_id" : { "$oid" : "534466fe380aa1910c74e8f9" }, "active" : "a", "subCategories" : [], "__v" : 0 }
+{ "__v" : 0, "_id" : { "$oid" : "53446704380aa1910c74e8fa" }, "active" : "a", "name" : "new one aa dssd", "parent" : { "$oid" : "534466f7380aa1910c74e8f8" }, "subCategories" : [] }
+{ "name" : "fdfsdfsdf", "parent" : null, "_id" : { "$oid" : "5344699ffce849e50e479129" }, "active" : "a", "subCategories" : [], "__v" : 0 }
+{ "__v" : 0, "_id" : { "$oid" : "534469a3fce849e50e47912a" }, "active" : "a", "name" : "hkhhjj dsfsd", "parent" : null, "subCategories" : [ { "$oid" : "534b153dc41aa01d06e61cb4" } ] }
+{ "name" : "Samsung", "parent" : { "$oid" : "53413cafdf2a2e3cec6915c4" }, "_id" : { "$oid" : "53446a50fce849e50e47912d" }, "active" : "a", "subCategories" : [], "__v" : 0 }
+{ "name" : "Sony", "parent" : { "$oid" : "53413cafdf2a2e3cec6915c4" }, "_id" : { "$oid" : "53446a58fce849e50e47912e" }, "active" : "a", "subCategories" : [], "__v" : 0 }
+{ "__v" : 0, "_id" : { "$oid" : "53446a5dfce849e50e47912f" }, "active" : "a", "name" : "Apple", "parent" : { "$oid" : "53413cafdf2a2e3cec6915c4" }, "subCategories" : [ { "$oid" : "53446a65fce849e50e479130" }, { "$oid" : "53446a6cfce849e50e479131" } ] }
+{ "name" : "Iphone 5", "parent" : { "$oid" : "53446a5dfce849e50e47912f" }, "_id" : { "$oid" : "53446a65fce849e50e479130" }, "active" : "a", "subCategories" : [], "__v" : 0 }
+{ "name" : "Iphone 5s", "parent" : { "$oid" : "53446a5dfce849e50e47912f" }, "_id" : { "$oid" : "53446a6cfce849e50e479131" }, "active" : "a", "subCategories" : [], "__v" : 0 }
+{ "name" : "fdsfsdfds", "parent" : null, "_id" : { "$oid" : "534b1539c41aa01d06e61cb3" }, "active" : "a", "subCategories" : [], "__v" : 0 }
+{ "name" : "fsdfsdfsd", "parent" : { "$oid" : "534469a3fce849e50e47912a" }, "_id" : { "$oid" : "534b153dc41aa01d06e61cb4" }, "active" : "a", "subCategories" : [], "__v" : 0 }
