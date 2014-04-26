@@ -1,5 +1,6 @@
 easy-mongo-fixture
 ==================
+[![Build Status](https://travis-ci.org/ivpusic/easy-mongo-fixture.svg?branch=master)](https://travis-ci.org/ivpusic/easy-mongo-fixture)
 
 Mongo fixture manager for [easy-fixture](https://github.com/ivpusic/easy-fixture) lib.
 
